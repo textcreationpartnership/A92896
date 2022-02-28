@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the proceedings of the Committee for preservation of the Customes, in the case of Mr George Cony merchant. By Samuel Selvvood Gent.</title>
+            <author>Selwood, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92896</idno>
+            <idno type="STC">Wing S2489</idno>
+            <idno type="STC">Thomason E844_4</idno>
+            <idno type="STC">ESTC R203533</idno>
+            <idno type="EEBO-CITATION">99863469</idno>
+            <idno type="PROQUEST">99863469</idno>
+            <idno type="VID">115671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 248:E844[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the proceedings of the Committee for preservation of the Customes, in the case of Mr George Cony merchant. By Samuel Selvvood Gent.</title>
+                  <author>Selwood, Samuel.</author>
+                  <author>England and Wales. Committee for Preservation of the Customes.</author>
+               </titleStmt>
+               <extent>[2], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Sheares at the Bible in S. Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cony, George --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Customs courts --  Great Britain --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115671:1" rendition="simple:additions"/>
+            <p>A NARRATIVE OF THE PROCEEDINGS OF THE <hi>Committee for preſervation of the Cuſtomes, In the Caſe of M<hi rend="sup">r</hi>
+               </hi> GEORGE CONY <hi>Merchant.</hi>
+            </p>
+            <p>By SAMUEL SELVVOOD Gent.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Sheares</hi> at the Bible in S. <hi>Pauls</hi> Churchyard, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115671:2"/>
+            <pb n="1" facs="tcp:115671:2"/>
+            <head>A NARRATIVE OF THE PROCEEDINGS OF THE <hi>Committee for preſervation of the Cuſtomes, in the Caſe of M<hi rend="sup">r</hi>
+               </hi> GEORGE CONY <hi>Merchant.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Inding the expectations and diſcour<g ref="char:EOLhyphen"/>ſes of men diverſly and dange<g ref="char:EOLhyphen"/>rouſly engaged touching the Caſe of Mr <hi>George Cony</hi> merchant, now de<g ref="char:EOLhyphen"/>pending by writ of <hi>Habeas Corpus</hi> in the Upper-Bench. Inſomuch that on the one ſide the peace of the Commonwealth, on the other ſide the Credit of the Gentleman himſelf, and on both ſides
+<pb n="2" facs="tcp:115671:3"/>the <hi>truth</hi> is thereby endangered. I conceive my ſelf in ſome meaſure obliged, (having been employed in the ſolliciting of the whole buſineſſe from the begin<g ref="char:EOLhyphen"/>ning, and knowing every foot ſtep and period there<g ref="char:EOLhyphen"/>of) to give the Nation a true and faithfull account of all proceedings in the caſe: that ſo the evil hopes and expectations of ſome, and the groundleſſe fears and cen<g ref="char:EOLhyphen"/>ſures of others, may be taken away. And the errour of that unlucky queſtion which hath been ſtated by occaſi<g ref="char:EOLhyphen"/>on of the ſaid caſe in ſo unſeaſonable a juncture, may be laid at the doores of thoſe whoſe violence, weakneſſe, or deſign hath been indeed properly and immediately guilty thereof.</p>
+            <p>For true it is that on the one ſide there is a gene<g ref="char:EOLhyphen"/>ration of men, reſtleſſe in their ſpirits, thirſting con<g ref="char:EOLhyphen"/>tinually after change, quarrelling with what-ever is preſent, and diſliking all things wherein their own heads or hands are not called to be principall Actors or Adviſers, who have taken occaſion from this very buſineſſe to fill the minds of the diſcontented of all Intereſts with an expectation of ſome opportunity to ſpring from hence to ſerve the turn of their particular diſcontents.</p>
+            <p>To this end they have given out ſeverall falſe re<g ref="char:EOLhyphen"/>ports of dangerous conſequence, which by way of im<g ref="char:EOLhyphen"/>preſſion or preparation may diſpoſe the people to a diſ<g ref="char:EOLhyphen"/>like of the preſent Government: as namely, That the Merchants of <hi>London</hi> have <hi>combined</hi> together to over<g ref="char:EOLhyphen"/>throw the Cuſtomes, that to this end the buſineſſe of Mr <hi>Cony</hi> is purpoſely ſet on foot, that under the conduct
+<pb n="3" facs="tcp:115671:3"/>of his ſingle caſe the whole deſign may march the more ſecurely: that they have made a common purſe to bear the charges at law: that they doubt not but to obtain Judgement of law againſt the Cuſtomes, and in conſe<g ref="char:EOLhyphen"/>quence to overthrow the payment of all other taxes in like manner <hi>not impoſed by common conſent in Parliament.</hi> And the unſteady multitude (whoſe judgement and affe<g ref="char:EOLhyphen"/>ction for the moſt part is guided according to the more or leſſe they ſuffer in their purſes) being incouraged by theſe reports, and not diſcerning further then this imme<g ref="char:EOLhyphen"/>diate eaſe which they have fancied to themſelves, by the hoped for diſcharge of all taxes, as aforeſaid, are hereby ſpeciouſly drawn in, and eaſily diſpoſed, when the oppor<g ref="char:EOLhyphen"/>tunity ſhall ripen, to aſſiſt the more dangerous and deep deſigns of the enemies of the Commonwealth. In the mean time neither reckoning what may be the iſſues of the changes they affect, nor meaſuring the preſent <hi>neceſ<g ref="char:EOLhyphen"/>ſity</hi> which induces ſuch levies, nor conſidering that the common ſafety is involved therein.</p>
+            <p>But on the other ſide, there is a certain ſort of men (ſuch as indeed are alwayes ſwarming in the Courts of Princes) deſcribed by the name of <hi>Flatterers</hi> or <hi>Sycho<g ref="char:EOLhyphen"/>phants,</hi> men of low and abject ſpirits within themſelves, but outwardly of high and inſolent deportment, capable of all forms and impreſſions whatſoever, which the pre<g ref="char:EOLhyphen"/>ſent power inclines to; who the better to raiſe or radi<g ref="char:EOLhyphen"/>cate themſelves in places of truſt and profit, uſe to abuſe the eare of Greatneſſe, to which they have acceſſe, with forged tales, and miſrepreſentation of other mens acti<g ref="char:EOLhyphen"/>ons, as much thereby impoſing upon the Prince, as the other ſort did upon the people. And ſome of theſe have
+<pb n="4" facs="tcp:115671:4"/>not been wanting in this opportunity, to repreſent this caſe of Mr <hi>Conyes</hi> (though to a different end) under the ſame notion of deſign and combination againſt the pre<g ref="char:EOLhyphen"/>ſent Government, which opinion by the help of a very ſmall circumſtance. viz. Mr <hi>Conyes</hi> perſonall relation to a Gentleman not long ſince thought fit to be ſecured, hath the more eaſily obtained the reputation of a truth.</p>
+            <p>To contribute therefore as much as in me lyes to the preventing of the inconveniences on both ſides, I do pub<g ref="char:EOLhyphen"/>liſh this enſuing Narrative, which I avow to be the truth, the whole truth, and nothing but the truth: And there<g ref="char:EOLhyphen"/>by I doubt not but it will appear, that whatever Mr <hi>Cony</hi> hath done for the purchaſe of his liberty, hath been all occaſionall and neceſſary, and not in purſuance of any de<g ref="char:EOLhyphen"/>ſign or combination as hath been inſinuated.</p>
+            <p>Nor is it likely if any ſuch deſigne or combination had been among the Merchants, it could have totally eſcaped my knowledge, who not only was converſant in all the paſſages of this buſineſſe, from the time it came before the <hi>Committee for Preſervation of the Cuſtomes</hi> but do own Mr <hi>Conyes</hi> demurring to the juriſdiction of that Committee, and the ſueing forth of his writt of <hi>Habeas Corpus</hi> upon his impriſonment to be the effect of my proper and peculiar adviſe unto him, grounded upon their not publiſhing the power by which they acted, and upon the illegality of the ſaid Committees proceedings, And not at all to ſtart any unhappy queſtion to the diſturbance of the publick peace.</p>
+            <p>
+               <pb n="5" facs="tcp:115671:4"/>
+For, for my own part I profeſſe obedience to the pre<g ref="char:EOLhyphen"/>ſent Government, and think I am bound ſo to do not for fear but for conſcience ſake. And that I am herein to fol<g ref="char:EOLhyphen"/>low the conduct of Gods providence, without ſo much as inquiring into the lawfulneſſe or unlawfulneſſe of thoſe means by which the acqueſt of Power and Government is made: my obedience thereunto not at all amounting to any juſtification of ſuch unlawfull acqueſt (in caſe any ſuch were, which for my part I muſt leave to the great Judge of Heaven and earth to determine) but being fully grounded as I conceive upon that reaſon of the Apoſtles rule of like obedience which he gives to all Chriſtians. viz. For that <hi>the powers which be, are ordained of God:</hi> which I underſtand generally of all Governing powers which have once obtained in any Nation, be the by-paſt means of ſuch obtaining what they will.</p>
+            <p>And as to the particular queſtion touching the Cuſtomes ſet on foot upon occaſion of Mr. <hi>Conyes</hi> caſe, touching the deciſion whereof all mens mindes are at preſent big with expectation, for my own part alſo I am convinced of the neceſſity that induceth the continuance of that and other payments for the preſent, although peradventure the for<g ref="char:EOLhyphen"/>mality of law may be wanting. And as upon this ground I never adviſed the bringing of the writt with any inten<g ref="char:EOLhyphen"/>tion of ſtriking at the payment of the Cuſtomes, or to in<g ref="char:EOLhyphen"/>troduce queſtion of his Highneſſes power in reference to the preſent levying of the ſame; So I muſt do my Cly<g ref="char:EOLhyphen"/>ent that conſcionable right as to averre that he never diſ<g ref="char:EOLhyphen"/>covered to me any ſuch intention or inclination in him<g ref="char:EOLhyphen"/>ſelf: but that he ſeriouſly apprehended the dangerous conſequence of the unſeaſonable ventilation of this que<g ref="char:EOLhyphen"/>ſtion
+<pb n="6" facs="tcp:115671:5"/>let the deciſion in law fall which way it would: If thereby either on the one hand the letter of the law ſhould be armed againſt the peace and ſafety of the Common<g ref="char:EOLhyphen"/>wealth to the advantage of the Male content &amp; difaffect<g ref="char:EOLhyphen"/>ed, or on the other hand the liberty and Property of the people after ſo vaſt an effuſion of the bloud and treaſure of the Nation ſhould in the iſſue of this queſtion be either totally loſt or at leaſt ſubjected to the abſolute will (whe<g ref="char:EOLhyphen"/>ther good or bad) of any preſent or ſucceding ſingle Go<g ref="char:EOLhyphen"/>vernour.</p>
+            <p>And in the ſequele of this enſuing Narrative I preſume the Reader will find, that by the two Firſt Warrants whereby Mr <hi>Cony</hi> was taken into and continued in cuſto<g ref="char:EOLhyphen"/>dy, there were legall advantages enough to have been ta<g ref="char:EOLhyphen"/>ken by Mr <hi>Cony</hi> whereby to have come off from his im<g ref="char:EOLhyphen"/>priſonment, without the touching upon this ſtring if the Committee had not after the writt brought, ſent two ſe<g ref="char:EOLhyphen"/>verall new Warrants to the Serjeant for his detention, in each of which they had taken care (though by reciting o<g ref="char:EOLhyphen"/>therwiſe then according to truth) to mend the errours of the former: both which Warrants bear date after the <hi>teſte</hi> of the <hi>Habeas Corpus,</hi> and the later of them not indeed actually delivered to the Serjeant, nor ſigned nor ſealed by the Committee untill the 24 or 25 of <hi>May</hi> laſt, which was after Mr <hi>Conyes</hi> Counſell had opened their excepti<g ref="char:EOLhyphen"/>ons to the former Warrants; And yet the ſaid Commit<g ref="char:EOLhyphen"/>tee have the confidence to make the ſaid Warrant bear date on the eighth of <hi>February</hi> laſt, which was above three moneths before the making and delivery thereof.</p>
+            <p>For the Reader may pleaſe to underſtand, that the firſt
+<pb n="7" facs="tcp:115671:5"/>writt of <hi>Habeas Corpus</hi> was brought in <hi>Hillary</hi> term laſt, the Serjeant at Armes, in whoſe Cuſtody he was, having then only two Warrants, the firſt for the attaching of Mr <hi>Cony,</hi> the ſecond to continue him in cuſtody, till pay ment of his Fine <hi>or further order of the Committee.</hi> But the Ser<g ref="char:EOLhyphen"/>jeant making no Return upon this firſt writt, we were for<g ref="char:EOLhyphen"/>ced to move for an <hi>Alias</hi> with a payne; before the return of which, (but after the <hi>Teſte</hi> of the ſaid firſt Writt) the Committee upon diſcovery of the errours of their former Warrants (to prevent his come off thereby) make a new Warrant to the Serjeant for <hi>Conyes</hi> detinue, <hi>untill he ſhould pay the fine of five hundred pounds, or be diſcharged by due courſe of law:</hi> And the return of the <hi>Alias</hi> being not till the laſt day of that Term, it could not be filed of Record untill the firſt day of <hi>Eaſter</hi> terme, for that the Counſell for <hi>his Highneſſe</hi> moved (according to reaſon and the courſe of the Court) to have a view of the ſame before the filing thereof upon the firſt day of which terme the return was accordingly filed, and afterwards upon opening the exceptions to the Serjeants Return, Mr <hi>Cony</hi> was turn<g ref="char:EOLhyphen"/>ed over by rule of the Court to the Cuſtody of the Mar<g ref="char:EOLhyphen"/>ſhall, &amp; a day appointed for <hi>his Highneſſes</hi> Counſell toan<g ref="char:EOLhyphen"/>ſwer the ſaid exceptions: upon which day it appearing to the Court that the ſaid Return of the Serjeant was not rightly directed, and ſo indeed no return at all in law, up<g ref="char:EOLhyphen"/>on which the Court could not proceed, Mr <hi>Cony</hi> was re<g ref="char:EOLhyphen"/>manded to the Cuſtody of the Serjeant at Armes and a Rule of Court given for a <hi>Plur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Habeas Corpus</hi> to be awar<g ref="char:EOLhyphen"/>ded him returnable <hi>Craſtino Aſcenſionis,</hi> which was two dayes after. But before the Return of the writt into Court (the Exceptions to the former Warrants upon which, without medling with the great queſtion, Mr <hi>Co<g ref="char:EOLhyphen"/>ny</hi>
+               <pb n="8" facs="tcp:115671:6"/>in the opinion of his Counſell might have come off, having been before opened as aforeſaid) the Committee ſend a fourth Warrant to the Serjeant, antedated as afore<g ref="char:EOLhyphen"/>ſaid, wherein they mended the Errours upon which the former exceptions were taken.</p>
+            <p>Now to what end this could be done, but to cut off Mr. <hi>Cony</hi> from all exception, but that of the legality of the power by which the Committee acted, and thereby to introduce and ſet on foot this ſo dangerous a queſtion touching <hi>his Highneſses</hi> power of levying Cuſtomes and other taxes for the neceſſary uſes of the publick, let every ſenſible man judge. Except it may be ſaid that it was to juſtifie the Rumour which was ſpread of a combination among the Merchants, or was an effect of weakneſſe and precipitation, which will equally leave the guilt of ſuch inconveniences as may enſue at the doors of the ſaid Committee.</p>
+            <p>For let the Reader take ſpeciall notice thereby (as that which is the main, and (as I hope) juſtifiable end of my publiſhing this account) that this queſtion might for ever have ſlept in ſilence, and no opportunity have been fur<g ref="char:EOLhyphen"/>niſhed thereby to further the deſignes of evil minded men to diſturb the publick peace, (notwithſtanding Mr <hi>Conyes</hi> bringing of his writt) had it not been for this the Com<g ref="char:EOLhyphen"/>mittees manner of proceeding, as well ſince as before the ſaid writt brought.)</p>
+            <p>For the prevention of which diſturbance and the time<g ref="char:EOLhyphen"/>ly obvening of ſuch wicked and dangerous deſigns as may ſhelter themſelves and march under the Colour of a le<g ref="char:EOLhyphen"/>gall defence of the Nations rights, if his <hi>Highneſſe</hi> ſhall find himſelf neceſſitated to enlarge the power of the Pro<g ref="char:EOLhyphen"/>tectorſhip in order to the levying of monyes, and thereby
+<pb n="9" facs="tcp:115671:6"/>in ſucceſſion of times (for in his dayes I hope it is not to be feared) the liberty and Property of the people of this Nation ſhould become totally loſt, and ſubjected to the abſolute will of any one particular perſon. I ſuppoſe the whole Nation will eaſily ſee by the enſuing Narrative, and by what before hath been obſerved, to whom they muſt reckon themſelves beholding for the benefit, whoſe Poſterities doubtleſſe will wear the Trophies of thoſe publick honours which will be rendered them by the people for ſo glorious a purchaſe.</p>
+            <p>But I withhold the Reader no longer from the narrtive it ſelf of the whole proceedings which were as followeth. The Commiſſioners of the Cuſtomes upon the bare ſug<g ref="char:EOLhyphen"/>geſtion of certain matters of Fact againſt <hi>George Cony</hi> of <hi>London</hi> Merchant, without ſummoning him to appear and anſwer the ſame, do <hi>pri<g ref="char:EOLhyphen"/>vately
+<note n="a" place="margin">The taking of Depoſitions in this manner being in the nature of an Inquiſition upon a penall ſtatute and not by Jury is con<g ref="char:EOLhyphen"/>trary to law, and hath therefore been damned in ſeverall Parlia<g ref="char:EOLhyphen"/>ments as contra-fundamentall to the rights and liberties of the people.</note> take depoſitions</hi> of wit<g ref="char:EOLhyphen"/>neſſes upon the ſaid matter. And that being done exhibite an Information or charge a<g ref="char:EOLhyphen"/>gainſt him <hi>in their
+<note n="b" place="margin">This is contrary to all reaſon as well as to lavv, that the In<g ref="char:EOLhyphen"/>formers themſelves ſhould have povver to take Depoſitions, and that before any Information Depending: and the Defendentto be<g ref="char:EOLhyphen"/>judged upon that evidence.</note> own names</hi> before the Committee for Preſervation of the Cuſtomes in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="charge">
+                        <pb n="10" facs="tcp:115671:7"/>
+                        <head>To the Honourable the Committee for preſervation of the Cuſtomes.</head>
+                        <head type="sub">
+                           <hi>A charge of fraud force, and miſdemeanour humbly preſented</hi> by the Commiſſioners for the Cuſtomes, <hi>againſt</hi> George Cony <hi>the elder,</hi> George Cony <hi>the younger,</hi> Robert Hawkins <hi>Conſtable, and others.</hi>
+                        </head>
+                        <p>THat the ſaid <hi>Cony the elder</hi> and <hi>George Cony the younger</hi> and others did on the fourth day of this inſtant <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1654. affront and abuſe <hi>Theophi<g ref="char:EOLhyphen"/>lus Colcoke</hi> and others, Deputies for the Commiſsioners of the Cuſtomes in the execution of the truſt to them committed, and particularly oppoſed, beat, or cauſed to be beaten ſome of the ſaid Deputies when they peaceably entred the houſe of the ſaid <hi>Cony,</hi> in which ſeverall great quantities of ſilks, for which no Cuſtome was payed, were lodged.</p>
+                        <p>That the ſaid <hi>Hawkins</hi> being Conſta<g ref="char:EOLhyphen"/>ble, and required by the ſaid Deputies to aſsiſt them herein, the ſaid <hi>Hawkins</hi> by
+<pb n="11" facs="tcp:115671:7"/>force carried the ſaid <hi>Colcoke</hi> to the Ju<g ref="char:EOLhyphen"/>ſtice of the peace as a Felon, on purpoſe that the ſaid ſilks might be conveyed a<g ref="char:EOLhyphen"/>way, which was accordingly done.</p>
+                        <p>All which was acted and done by the perſons above mentioned in contempt of the Power and Authority of <hi>his Highneſſe the Lord Protector</hi> and the Parliament, whom the ſaid <hi>Cony</hi> much vilified; and in oppoſition to the lawes and ordinan<g ref="char:EOLhyphen"/>ces made concerning the Cuſtomes: to the prejudice of the Common-wealth, and loſſe in the Revenue of the Cu<g ref="char:EOLhyphen"/>ſtomes.</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Novemb.</hi> 6. 1654.</date>
+                           </dateline>
+                           <signed>
+                              <hi>This is a true copie examined by</hi>
+FRAN. MEVERELL <hi>Cler.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="12" facs="tcp:115671:8"/>
+By <note n="c" place="margin">Such warrant they had no pow<g ref="char:EOLhyphen"/>et to grant in any capacity what<g ref="char:EOLhyphen"/>ſoever, eſpecially being the In<g ref="char:EOLhyphen"/>formants themſelves. It is true the Commiſſioners of the Cu<g ref="char:EOLhyphen"/>ſtomes had formerly power by Ordinance of the 14. <hi>April</hi> 1645. and of the 16. <hi>Decemb.</hi> 1647. to conſtitute a Meſſen<g ref="char:EOLhyphen"/>ger who ſhould have power to ſummon and attach, <hi>&amp;c.</hi> and carry the offender before the Committee of Parliament, for Regulating the Exciſe, <hi>&amp;c.</hi> But that Committee ceaſing, the power of that Meſſenger ceaſeth by impoſſibility of execution; and the Commiſſioners of the Cuſtomes have no power to give ſpeci<g ref="char:EOLhyphen"/>all warrant in the caſe by any Act or Ordinance whatſoever.</note> ſpeciall warrant alſo <hi>under the hands of the ſame Commiſsioners</hi> (who, note, are the Informants themſelves) <hi>Cony</hi> the elder is attached up<g ref="char:EOLhyphen"/>on the Exchange at
+<note n="d" place="margin">This favours of direction given to the Meſſenger, and of malice in the di<g ref="char:EOLhyphen"/>rectors, the defendant being a merchant, and was at that inſtant of time to draw bills for at leaſt 4000 l. neither was there any neceſſity of ſuch attachment when a ſummons would have ſerved the turn, he being a perſon reſident and of note.</note> 
+               <hi>high Exchange time;</hi> and carri<g ref="char:EOLhyphen"/>ed in cuſtody before the ſaid Committee, as yet not un<g ref="char:EOLhyphen"/>derſtanding for what cauſe; the Officer
+<note n="e" place="margin">This ſavours of direction alſo, and is likewiſe contrary to law, for that no man ought to be denied a copy of that warrant by which is either attached or impriſoned, neither can there be any reaſon for it but malice and ſurprize.</note> denying him a copy of his warrant, and not ſo much as ſhewing him the ſame till he came to the door of the Committee.</p>
+            <p>Being carried in before the ſaid Committee (
+<note n="f" place="margin">It is contrary to the common light of nature that two parties coming before a Court, the one ſhould have greater countenance then the other: and Col. <hi>Harvie</hi> behaved himſelf here more like a Judge then an Informant.</note> 
+               <hi>Colonel Harvy one of the Informants,</hi> ſitting with them, and having been <hi>in
+<note n="g" place="margin">This was derogatory to the ho<g ref="char:EOLhyphen"/>nour of a Court, to ſuffer the<g ref="char:cmbAbbrStroke">̄</g>ſelves to be prepoſſeſſed by one party.</note> private</hi> with the Committee almoſt an hour before) the Information is read; to which <hi>Cony</hi> pleads not, but demands a Copy, and time to plead after advice with his Counſell.</p>
+            <pb n="13" facs="tcp:115671:8"/>
+            <p>The Committee upon the motion <hi>Co<g ref="char:EOLhyphen"/>lonell Harvy</hi> (the Informant (note) as aforeſaid) deny
+<note n="h" place="margin">No Court ought to de<g ref="char:EOLhyphen"/>ny any man a <hi>copie</hi> of his Charge, and 'tis the high<g ref="char:EOLhyphen"/>eſt injuſtice that can be, for a Court to endea<g ref="char:EOLhyphen"/>vour the ſurpriſe of any party, and there could be nothing leſſe intended in ſuch a deniall.</note> him a Copie, and it is violently preſſed by <hi>Colonel Harvy</hi> that he might be required to plead immedi<g ref="char:EOLhyphen"/>atly, and that <hi>no
+<note n="i" place="margin">This was as ignorantly moved as unjuſt<g ref="char:EOLhyphen"/>ly, for that according to the Law of <hi>England</hi> no Court ſhall deny me to plead by Counſel, but in caſes of Felony and Treaſon: and yet then alſo I ſhall have Counſell aſſigned me to adviſe with if I deſire it.</note> Counſell might be al<g ref="char:EOLhyphen"/>lowed to ſpeak for him.</hi>
+            </p>
+            <p>
+               <hi>Cony</hi> being accordingly required to plead, alledgeth on the contrary, the un<g ref="char:EOLhyphen"/>reaſonableneſſe of ſuch ſurprize, his own ignorance of the Law, and the abſence of his Counſell; But in the mixture of his diſcourſe being much and violently preſ<g ref="char:EOLhyphen"/>ſed by <hi>Colonel Harvey,</hi> And being at that inſtant alſo under the diſtemper of an Hectique Feaver which after a long ſickneſſe had not quite left him, did in<g ref="char:EOLhyphen"/>cautiouſly let Fall, (but not by way of Plea) <hi>that he knew of nothing contained in the ſaid Information that he was guilty of:</hi> yet becauſe he knew not what prejudice he might doe himſelfe by making that
+<pb n="14" facs="tcp:115671:9"/>Plea, he ſtill inſiſted to have a Copie of the Information, and a day appointed to put in his Plea after adviſe with his Counſell.</p>
+            <p>The
+<note n="k" place="margin">No Court can take that for a Plead<g ref="char:EOLhyphen"/>ing which I intend not for a plead<g ref="char:EOLhyphen"/>ing at the time of my ſpeaking, &amp; declare my intention at the ſame time as here <hi>Cony</hi> did; for by ſuch declaration I refuſe to put my ſelf upon that iſſue; and if no iſſue be joyned, no Judgment can lawfully be given, except where the matter can be taken <hi>pro con<g ref="char:EOLhyphen"/>feſſo</hi> upon default when I was bound to plead and did not. But in this Caſe, firſt <hi>Cony</hi> was not by law bound to plead, the Committee ha<g ref="char:EOLhyphen"/>ving denied him a copie of the information. Secondly, the Judgment it ſelf was not given by default, but recites as if iſſue had been joy<g ref="char:EOLhyphen"/>ned: whereas indeed <hi>Cony</hi> declared himſelfe expreſly to the contrary.</note> Committee lay hold of this in<g ref="char:EOLhyphen"/>caution of his words, and though <hi>Cony</hi> then immediately declared that he in<g ref="char:EOLhyphen"/>tended them not as a Plea, yet will needs have it underſtood, That he had thereby pleaded Not guilty to the Information: and thereupon call the Depoſitions to be read,
+<note n="l" place="margin">If iſſue had been joyned, yet it was con<g ref="char:EOLhyphen"/>trary to all law, reaſon, equity, good conſci<g ref="char:EOLhyphen"/>ence, or common honeſty, that ſuch iſſue ſhould be tried by the evidence of Depoſiti<g ref="char:EOLhyphen"/>ons <hi>taken by the Informants themſelves:</hi> and that before any Information depending.</note> which Depoſitions were taken <hi>by or before themſelves</hi> as aforeſaid.
+<note n="m" place="margin">There is nothing more viſible in this whole Caſe than that a ſurprize of the Defendant was deſigned from the beginning; for mark, <hi>Cony</hi> is attached upon the <hi>Exchange,</hi> carried in cuſto<g ref="char:EOLhyphen"/>dy before this Committee, not knowing any thing that was againſt him, required to plead <hi>ore tenus</hi> immediately, to an Information, whereof he muſt have no copie; and Depoſitions ready taken againſt him privately in the nature of an Inquiſition, by the Informants themſelves, upon which the iſſue muſt be tried immediately: a proceeding ſo groſſe as I ſhall not need to ob<g ref="char:EOLhyphen"/>ſerve any thing to the Reader thereupon; the bare relation ſufficiently manifeſting the inju<g ref="char:EOLhyphen"/>ſtice.</note> They containing three or four ſheets of paper cloſe written.</p>
+            <p>
+               <pb n="15" facs="tcp:115671:9"/>
+After the reading, <hi>Cony</hi> is asked by the Committee, what he had to ſay thereunto: he alledgeth, that he had not yet pleaded, and inſiſts as before to have a Copie of the Information, and a day to plead.</p>
+            <p>In fine, after he was bidden to withdraw, and ſoon after called in again, a Copie of the Information was
+<note n="n" place="margin">If he plea<g ref="char:EOLhyphen"/>ded before, why was he Ordered a Copie and a new day? if he had not pleaded, how could the Committee proceed to Judgment? doubtleſſe he would have rather moved for Copies of the Depoſitions than for a Copie of the Informa<g ref="char:EOLhyphen"/>tion, if in his own underſtanding he had pleaded.</note> Ordered him, and the ſame day ſevenight given him to ap<g ref="char:EOLhyphen"/>pear and anſwer: againſt which day this enſuing Petition was drawn.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <pb n="16" facs="tcp:115671:10"/>
+                        <head>To the right Honourable the Committee for Preſervation of the Cuſtomes. The humble Petition of <hi>George Cony the Elder.</hi>
+                        </head>
+                        <opener>Sheweth,</opener>
+                        <p>THat of common right belonging to all and every Member of the Common-wealth of <hi>England,</hi> any perſon or perſons ſtanding charged in any Court of Law or Equity within the ſaid Common<g ref="char:EOLhyphen"/>wealth, may have liberty <hi>to demurre to the Iuriſdiction of the ſame Court.</hi>
+                        </p>
+                        <p>And although it is true, that the Judges of the ſame Court are the proper Judges to determine the queſtion upon ſuch Demurrer whether the matters are within their Juriſdiction or not, yet it hath never been known that any ſuch Demurrer was refuſed, but as well for the ſatisfaction of the Partie, as for the avoiding of all Ar<g ref="char:EOLhyphen"/>bitrary
+<pb n="17" facs="tcp:115671:10"/>proceedings was admitted to be argued, without the Parties incurring the guilt of Contumacie, or ſtir<g ref="char:EOLhyphen"/>ring the paſſion of his Judges.</p>
+                        <p>That to make the Parties capable of Demurring if there be juſt cauſe, it is of neceſſity, That that upon which the Juriſdiction of ſuch Court is founded, whether it be Common Law, Statute Law, Ordinance or Commiſſi<g ref="char:EOLhyphen"/>on be known.</p>
+                        <p>And therefore in all Courts that proceed by any new Authority, that which gives the Authority whether Or<g ref="char:EOLhyphen"/>dinance, Commiſſion, or whatever ought as the Peti<g ref="char:EOLhyphen"/>tioner humbly conceives to be openly read, publiſhed, and promulgated, or otherwiſe no perſon can be in con<g ref="char:EOLhyphen"/>tempt of the ſame, <hi>none being bound to obey or Anſwer before ſuch an Authority or Iuriſdiction as is not known.</hi>
+                        </p>
+                        <p>Now whereas the Petitioner ſtandeth charged before your Honours upon an Information of Fraud, force, and miſdemeanour exhibited againſt him by the Commiſſi<g ref="char:EOLhyphen"/>oners of the Cuſtomes, and not finding by the Com<g ref="char:EOLhyphen"/>mon Law or Statute Law of this Common-wealth, or any Act or Ordinance publickly or legally promul<g ref="char:EOLhyphen"/>gated, what the Juriſdiction of your Honours in refe<g ref="char:EOLhyphen"/>rence to the ſaid Fraud, force, and miſdemeanour pre<g ref="char:EOLhyphen"/>tended in the ſaid Information may be: The Petitioner humbly hopes he ſhall not be conſtrued of any Contu<g ref="char:EOLhyphen"/>macie againſt Authority (to which he ſhall be alwaies ready to yeild a willing and cheerfull obedience) if as in right onely of a Free Member of the Common-wealth of <hi>England,</hi> and not otherwiſe, he ſhall humbly pray a ſight of ſuch Ordinance, Commiſſion, or other Autho<g ref="char:EOLhyphen"/>rity by which your Honours are to proceed. Upon
+<pb n="18" facs="tcp:115671:11"/>which if he ſhall finde cauſe of Demurrer, your Honours being your ſelves the proper Judges to determine the queſtion, after your Petitioners Counſell ſhall firſt have been heard thereupon, <hi>the Petitioners purpoſe is humbly to ſubmit to your Iudgments therein: and then afterwards to plead or anſwer over to the ſaid Charge (if your Honours ſhall finde the matters within your Iurisdiction) according as by his Counſell learned in the Lawes he ſhall be adviſed.</hi>
+                        </p>
+                        <p>For his adviſing with whom afterwards, the Petitioner ſhall humbly pray ſuch reaſonable time may be given him as to your Honours ſhall ſeem convenient.</p>
+                        <closer>And he ſhall pray &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="19" facs="tcp:115671:11"/>
+At the day <hi>Cony</hi> accordingly appears, but exhibits not the Petition, but verbally
+<note n="o" place="margin">He had good reaſon to demurre to their Ju<g ref="char:EOLhyphen"/>riſdiction, not knowing by what Power or War<g ref="char:EOLhyphen"/>rant they ſate, no man being bound to anſwer a Juriſdiction that is not known, and that founded not in the Common Law, but in an Ordinance of <hi>his Highneſſe,</hi> which was never promulgated, nor ſo much as publiſhed in print, whereby it might be known.</note> 
+               <hi>demurrs to the Juriſdiction of the Commit<g ref="char:EOLhyphen"/>tee and prayes liberty to argue his Demurrer.</hi>
+            </p>
+            <p>Whereupon being commanded to with<g ref="char:EOLhyphen"/>draw, the Committee without further hea<g ref="char:EOLhyphen"/>ring, or
+<note n="p" place="margin">If they had ſuffer'd their Juriſdiction to be argu<g ref="char:EOLhyphen"/>ed, and had then over-ruled the Demurrer, the Defendant muſt have pleaded over, and therefore there was no neceſsity of ſuch proceeding, unleſſe to ſur<g ref="char:EOLhyphen"/>prize him.</note> ſuffering their Juriſdiction to be argued, proceed to ſentence; and <hi>Cony</hi> be<g ref="char:EOLhyphen"/>ing called in again is
+<note n="q" place="margin">By the Statute of <hi>Magna Charta</hi> no Free<g ref="char:EOLhyphen"/>man ſhall be taken or impriſoned, or be diſſei<g ref="char:EOLhyphen"/>zed, &amp;c. or any way otherwiſe deſtroyed, nor ſhall the King paſſe upon him but by lawfull Judgement of his Peers, or by the Law of the Land. To this Statute there is no <hi>nonbſtante</hi> in the Ordinance of his Highneſſe, by which this Committee are impowred, and if there had, yet by the ſixt Article of the inſtrument of Govern<g ref="char:EOLhyphen"/>ment, the Laws ſhall not be altered, ſuſpended, abrogated or repealed, nor any new Law made, &amp;c. ſave only as is expreſſed in the 30<hi rend="sup">th</hi> Article, which 30<hi rend="sup">th</hi> Article relates only to the raiſing of money in caſes of neceſsity, and preventing of diſorders.</note> adjudged, in the payment of 500<hi rend="sup">th</hi> in 14 dayes.</p>
+            <p>
+               <pb n="20" facs="tcp:115671:12"/>
+               <hi>Cony</hi> having been ſerved with this order of Judgment, and not performing the ſame, is afterwards by warrant of the ſaid Commit<g ref="char:EOLhyphen"/>tee of the 12<hi rend="sup">th</hi> of <hi>December</hi> laſt directed to the Sergeant at Armes, taken into Cuſtody, and upon the 19<hi rend="sup">th</hi> of <hi>December</hi> is brought be<g ref="char:EOLhyphen"/>fore the ſaid Committee to anſwer the con<g ref="char:EOLhyphen"/>tempt (as the ſaid Order ſtyles it) which Or<g ref="char:EOLhyphen"/>der follows in theſe words:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <opener>
+                           <dateline>
+                              <date>Tueſday the 12<hi rend="sup">th</hi> of <hi>December,</hi> 1654.</date>
+At the Committee for preſervation of Cuſtomes.</dateline>
+                        </opener>
+                        <p>WHereas <hi>George Cony</hi> the Elder was by Order of the Com<g ref="char:EOLhyphen"/>mittee, of the 16<hi rend="sup">th</hi> of <hi>November</hi> laſt, Ordered to pay in to the Commiſsio<g ref="char:EOLhyphen"/>ners for the Cuſtomes for the uſe of the Common-wealth the ſumme of five hundred pounds of lawfull money of <hi>England,</hi> on or before the 30<hi rend="sup">th</hi> day of
+<pb n="21" facs="tcp:115671:12"/>the ſame moneth of <hi>November,</hi> being ſo much impoſed on him as a fine by this Committee for receiving goods not firſt duly entred at the Cuſtome-houſe, oppoſing of the Officers of the Cu<g ref="char:EOLhyphen"/>ſtomes in the execution of their duty, and ſeverall other miſdemeanors. And foraſmuch as by Certificate from the Commiſsioners of the Cuſtomes, bear<g ref="char:EOLhyphen"/>ing date the 5<hi rend="sup">th</hi> of this inſtant <hi>Decem<g ref="char:EOLhyphen"/>ber;</hi> it appears, that the ſaid <hi>George Cony</hi> the Elder hath neglected to make pay<g ref="char:EOLhyphen"/>ment of his ſaid Fine in contempt of the ſaid Order, This Committee therefore in purſuance of the powers and Autho<g ref="char:EOLhyphen"/>rity to them given, by virtue of an Or<g ref="char:EOLhyphen"/>dinance from his Highneſſe the Lord Protector and his Councell, bearing date the 2d of <hi>September</hi> laſt, Doe order that the Sergeant at Arms attending the Parliament doe forthwith apprehend
+<pb n="22" facs="tcp:115671:13"/>and bring in ſafe Cuſtody the body of the ſaid <hi>George Cony</hi> the Elder before this Committee to anſwer his ſaid con<g ref="char:EOLhyphen"/>tempt. And for ſo doing this ſhall be a ſufficient VVarrant. And all Officers as well Military as Civil, are hereby re<g ref="char:EOLhyphen"/>ſpectively required to be aiding and aſ<g ref="char:EOLhyphen"/>ſiſting in the due execution hereof ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                        <trailer>To <hi>Edward Birkhead</hi> 
+                           <abbr>Eſq</abbr> Serjeant at Arms atten<g ref="char:EOLhyphen"/>ding the Parliament.</trailer>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>John Stone.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Roberts.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Gervas Bennett.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>A. Baynes.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Jo. Bockett.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>To take off this contempt, it was by me urged on Ma<g ref="char:EOLhyphen"/>ſter <hi>Cony</hi>'s behalf, in effect as followeth:</p>
+            <p>
+               <hi>That the Defendant in his own intention had not pleaded, and therefore that the Iudgment ought in reaſon to be re<g ref="char:EOLhyphen"/>voked, having preceded the Defendants plea or defenſe which he was to make.</hi>
+            </p>
+            <p>
+               <hi>That by the Law of</hi> England <hi>no perſon is compellable to plead</hi> ore tenus, <hi>but in Caſes of Felony and Treaſon.</hi>
+            </p>
+            <p>
+               <hi>That the Defendant being a perſon not skilfull in the Laws had demanded liberty to adviſe and to plead by Coun<g ref="char:EOLhyphen"/>ſell,
+<pb n="23" facs="tcp:115671:13"/>which by the Law he might, and ought not to have been refuſed him.</hi>
+            </p>
+            <p>
+               <hi>That although upon advantage taken of ſome improvi<g ref="char:EOLhyphen"/>dent expreſsions, which fell from the Defendant in his Diſtemper the firſt day, by way of anſwer to</hi> Colonel Har<g ref="char:EOLhyphen"/>vey<hi>'s urgings,</hi> and not by way of Plea to the Court, <hi>the Committee did indeed forthwith call the Depoſitions to be read, yet Firſt, upon his inſisting afterwards to have a Copie of the Information, and a new day to plead, after ad<g ref="char:EOLhyphen"/>viſe with his Counſell, they themſelves had granted him a Copie, and a new day accordingly, which implied they were ſatisfied by the Reaſons offered, that they could not take thoſe improvident Expreſsions as a Plea: And again, al<g ref="char:EOLhyphen"/>though they had not, yet it was not reaſon he ſhould be judged by the evidence of Depoſitions ſo taken in private by the Informants themſelves without his knowledge, and therefore that they ought to have been ſuppreſt.</hi>
+            </p>
+            <p>
+               <hi>That whereas at his next appearance, inſtead of Pleading (which he neither had done before, nor was bound to doe being ſurprized as aforeſaid) he had demurred to the Juriſ<g ref="char:EOLhyphen"/>diction of the Committee, he might of right doe it by the Law, as well in that as in all other Courts in</hi> England.</p>
+            <p>
+               <hi>That to demurre to the Juriſdiction of a Court is not to deny that the Court hath a Iuriſdiction (that being rather implyed than denyed by the Demurrer) but to enquire whe<g ref="char:EOLhyphen"/>ther the particular Caſe in queſtion be within ſuch Iuriſ<g ref="char:EOLhyphen"/>diction or no.</hi>
+            </p>
+            <p>
+               <hi>That all Courts being Judges of their own Iuriſdiction, it ought not to give offence to demurre thereunto, And therefore in the ordinary Courts of Iudicature, where the moſt grave and learned in the Laws ſit as Iudges, ſuch De<g ref="char:EOLhyphen"/>murrers never give offence, nor are denied to be argued.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:115671:14"/>
+               <hi>That the Committee being in like manner Iudges of their own Iuriſdiction; if it ſhould happen that upon arguing the Defendants demurrer, they ſhould over-rule the ſame according to Law, The Defendant was ready according to the rule of other Courts to plead over as he ſhould be advi<g ref="char:EOLhyphen"/>ſed by his Counſell.</hi>
+            </p>
+            <p>
+               <hi>That peradventure the Defendant might plead the ſame Plea that was before pretended: and there was no reaſon for ſuch extreme precipitation in this buſineſſe, being onely up<g ref="char:EOLhyphen"/>on matter of a penal Statute at moſt; the execution of which Statutes in the rigour the Law favours not.</hi>
+            </p>
+            <p>All this notwithſtanding the Committee affirm their former Judgment, and by a Warrant then dated being the 19<hi rend="sup">th</hi> of <hi>December</hi> laſt continue <hi>Cony</hi> in cuſtody of the Sergeant at Armes, <hi>untill he ſhall conform to the payment of the ſaid</hi> 500<hi rend="sup">li</hi>. <hi>or the ſaid Committee ſhall further order.</hi>
+            </p>
+            <p>A Copie of which Order followeth in theſe words:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <head>Tueſday the 19<hi rend="sup">th</hi> of <hi>December,</hi> 1654. At the Committee for preſervation of the Cuſtomes.</head>
+                        <p>WHereas <hi>George Cony</hi> the Elder was on the 16<hi rend="sup">th</hi> day of <hi>Novemb:</hi> laſt upon due proofs on oath adjudged and fined in the ſumme of Five hundred pounds of lawfull money of <hi>England</hi> for receiving goods not firſt entred at the Cuſtome<g ref="char:EOLhyphen"/>houſe, and for refuſing the Officers of the Cuſtomes to make ſearch for ſuch goods in the day time, when they required the ſame &amp; produced their Commiſſion in that behalf; and for reſiſting the ſaid Officers, violently aſ<g ref="char:EOLhyphen"/>ſaulting them, and forcing them out of his houſe where<g ref="char:EOLhyphen"/>into
+<pb n="25" facs="tcp:115671:14"/>before they had been peaceably admitted &amp; entred, and demanded to make ſearch, as aforeſaid, and commit<g ref="char:EOLhyphen"/>ting alſo diverſe other miſdemeanors in contempt and diſobedience of the Ordinances of Parliament of the 14 of <hi>April,</hi> 1645. and 16 of <hi>Decemb.</hi> 1647. in that behalf made: And whereas the ſaid <hi>George Cony</hi> the Elder being then perſonally preſent was upon the 16 of <hi>Novemb:</hi> a<g ref="char:EOLhyphen"/>foreſaid adjudged and ordered to pay the ſaid ſumme of Five hundred pounds unto the Commiſſsioners for the Cuſtomes for the uſe of the Common wealth, upon or before the 30<hi rend="sup">th</hi> of <hi>November</hi> laſt: Which Judgement and Order hath been ſince ſerved and left in Writing, at the houſe of the ſaid <hi>George Cony</hi> the Elder; And for as much as the Commiſſioners of the Cuſtomes have cer<g ref="char:EOLhyphen"/>tified unto this Committee, that the ſaid <hi>George Cony</hi> the Elder, hath neglected to pay in the ſaid Five hundred pounds, in contempt of the ſaid Order, This Committee therefore in purſuance of the powers and authority to them given by Ordinance from <hi>his Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector</hi> and his Councell bearing date the 2 of <hi>Sept.</hi> laſt, do order, That the ſaid <hi>George Cony</hi> the Elder <hi>for his ſaid contempt</hi> be and ſtand committed to the cuſtody of the Serjeant at Armes attending the Parliament there to re<g ref="char:EOLhyphen"/>main <hi>untill he ſhall conform to payment of the ſaid Five hundred pounds, or this Committee ſhall further Order;</hi> whereof the Serjeant at Armes is to take notice, and to receive him into cuſtody accordingly.</p>
+                        <closer>
+                           <salute>To <hi>Edward Birkhead</hi> 
+                              <abbr>Eſq</abbr> Serjeant at Armes attending the Parliament.</salute>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Iohn Stone.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will: Roberts.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Adam Baynes.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Gerv: Bennett.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Bockett.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="26" facs="tcp:115671:15"/>
+Upon <hi>Hillary</hi> Terme laſt, by adviſe of his Councell, <hi>Cony</hi> brings his <hi>Habeas Corpus</hi> in the Upper Bench, his ſaid Councell finding ſuch error in the Warrants of his Commitment, as they were of opinion, that the Court would diſcharge him immediately upon the opening of the ſame.</p>
+            <p>For firſt, although their ſaid Warrant of the 19th. of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> it is expreſſed that the ſame was made in purſuance of the Power and Authority to them given by Ordinance from <hi>his Highneſſe the Lord Protector,</hi> and his Councel, bearing date the ſecond of <hi>September</hi> laſt; yet there is no recitall of what that Power, and Authority is: And the ſaid Ordinance being ne<g ref="char:EOLhyphen"/>ver publiſhed, nor certified, and enrolled in Chancery, nor from thence ſent by <hi>Mittimus</hi> into the Upper-Bench, it could not be preſumed that the Court could <hi>as Judges</hi> take notice what the ſaid Power and Authority was, and if ſo, it muſt follow, that the Court was obliged to diſcharge the Priſoner.</p>
+            <p>Secondly, if they had recited the ſaid Ordinance of his <hi>High<g ref="char:EOLhyphen"/>neſſe</hi> of the ſecond of <hi>September</hi> at large, yet the powers thereby given to that Committee, are not therein particularly expreſſed, but onely in Generall, and by way of reference, to a former Ordinance of <hi>his Highneſſe,</hi> viz. to put in execution the ſeve<g ref="char:EOLhyphen"/>rall powers given to the late Committee, for preſervation of Cuſtomes, by <hi>his Highneſſe and Councel,</hi> which were as unknown to the Court as the former.</p>
+            <p>Thirdly, there was no recitall in the ſaid Warrant of Com<g ref="char:EOLhyphen"/>mitment, that the Cuſtomes themſelves were continued by any Ordinance of <hi>his Highneſſe:</hi> For <hi>(de facto)</hi> all former Or<g ref="char:EOLhyphen"/>dinances and Acts of Parliament, for continuance of the Gu<g ref="char:EOLhyphen"/>ſtomes, were actually expired, before the giving of this Judge<g ref="char:EOLhyphen"/>ment; And if there were any Ordinance of <hi>his Highneſſe</hi> after<g ref="char:EOLhyphen"/>wards, for continuation thereof, ſuch Ordinance ought to have been recited in the Warrant at large, otherwiſe the ſame not being certified, nor tranſmitted to the Court as aforeſaid, the Court could not (for like reaſon as before) take any <hi>Judiciall notice</hi> thereof, nor conſequently, that the matters of Fact men<g ref="char:EOLhyphen"/>tioned in the ſaid Warrant, <hi>viz. Receiving of goods not firſt en<g ref="char:EOLhyphen"/>tred
+<pb n="27" facs="tcp:115671:15"/>at the Cuſtome-houſe, refuſing the Officers of the Cuſtomes to make ſearch, reſiſting and forceing them out of his houſe,</hi> &amp;c. were matters within the Law puniſhable by Fine and Impriſon<g ref="char:EOLhyphen"/>ment. And if they could not <hi>judicially</hi> take notice of the matters of Fact, as ſuch, then alſo it was to be preſumed, they ought to diſcharge the Priſoner upon his <hi>Habeas Corpus.</hi>
+            </p>
+            <p>Fourthly, the ſaid matters of Fact were not in themſelves puniſhable (as they are there expreſſed and ſet forth) by any Act or Ordinance, either of <hi>his Highneſſe,</hi> or of the Parliament, if the Acts and Ordinances themſelves, had been well and fully recited.</p>
+            <p>For firſt, <hi>Receiving of Goods, not firſt entred at the Cuſtom<g ref="char:EOLhyphen"/>houſe</hi> is not penall; but <hi>importing and bringing from parts be<g ref="char:EOLhyphen"/>yond the Seas, any goods by way of Merchandiſe, into any Port of England,</hi> &amp;c. <hi>and the ſame to unlade, take or carry away, without payment of Cuſtome, or Compounding, or agreement for the ſame,</hi> is the thing, that by thoſe Acts and Ordinances is penall: But in this Warrant, the cauſe is ſaid to be onely for <hi>Receiving of Goods not Entred,</hi> and thoſe not expreſſed, whe<g ref="char:EOLhyphen"/>ther they were ſuch as ought to have been entred or not.</p>
+            <p>Secondly, <hi>Refuſing an Officer of the Cuſtom-houſe, to make ſearch for ſuch Goods,</hi> no otherwiſe expreſſed or deſcribed, then as <hi>Goods not entred in the Cuſtom-houſe,</hi> is againſt no Act or Ordinance, either of Parliament, or his Highneſſe what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>Thirdly, <hi>Reſiſting and forcing of Officers of the Cuſtomes out of his Houſe</hi> (expreſſed with no other circumſtance then is here) as no Crime, or miſdemeanor in the Law, or by any Act or Ordinance whatſoever: For there may be an unlaw<g ref="char:EOLhyphen"/>full Entry made into any Houſe, by Officers of the Cuſtome-houſe, or unlawfull attempts committed by them in any houſe (though peaceably admitted) and conſequently there may be a lawfull reſiſting and forcing them out of my Houſe, and it is not recited in this Warrant, that the Officers were in the lawfull execution of their duty, but onely that they came to ſeach <hi>for Goods not entred at the Cuſtome-houſe,</hi> with<g ref="char:EOLhyphen"/>out expreſſing whether they were ſuch as ought to have been entred or not.</p>
+            <p>
+               <pb n="20" facs="tcp:115671:16"/>
+And let not the profoundneſſe of any man reply that theſe are idle quirks and quillits (as ſome men call all things in the Law that ſavour of Form) for in things of this nature a Court muſt have certainty before it, other<g ref="char:EOLhyphen"/>wiſe it ought not to give Judgement, and if any man thinks otherwiſe, he is fitter to follow his private trade, than to meddle in matters of Judicature: For though as a private perſon I may in my conſcience be perſwa<g ref="char:EOLhyphen"/>ded that the goods here mentioned were intended of goods Imported, which ought to have been Entred at the Cuſtome-houſe; yet <hi>as a Iudge</hi> I muſt not follow my private perſwaſion, but what appears by certainty of proof, or matter of record.</p>
+            <p>Fiftly, whereas the Warrant was to continue the Par<g ref="char:EOLhyphen"/>tie in Cuſtody <hi>till he ſhould</hi> conform to payment of the ſaid 500 pounds, <hi>or that Committee ſhould farther Order,</hi> This was a Commitment not warrantable by Law; For that there might be cauſe why he ſhould be diſcharged by order of law, though he never payed the Fine at all.</p>
+            <p>Upon theſe and other defects in the Warrant, M. <hi>Cony</hi> was adviſed and encouraged to the bringing of his Writ for the obtaining of his liberty, and not upon any other deſigne whatſoever, eſpecially not with intention to ſet on foot any Queſtion touching his Highneſſes authority in levying of moneys for neceſſary uſes and ſafety of the Common-wealth; which I believe every ſenſible man cannot but look on, not onely as a dangerous but as a very vain <hi>question</hi> too in this Juncture of time, when (let the ſtrict point and formality of the Law, be what it will, yet) the neceſſity of keeping up the Armies both by Sea &amp; Land, not only for the ſafety of <hi>his Highneſſes intereſt,</hi> but of the Common-wealths alſo, (which is now twiſted together with it) is ſo indiſputable, as none but the paſſio<g ref="char:EOLhyphen"/>nate or injudicious can ſay, he ſees it not.</p>
+            <p>
+               <pb n="29" facs="tcp:115671:16"/>
+But (it ſeems) to the Gentlemen who proceeded a<g ref="char:EOLhyphen"/>gainſt Mr <hi>Cony,</hi> the peace of the Commonwealth and Ho<g ref="char:EOLhyphen"/>nour of his <hi>Highneſſe</hi> was not of ſo dear and precious con<g ref="char:EOLhyphen"/>cernment as the juſtification of their own proceedings, how irregular ſoever and deviating from the Authority given them: And therefore having firſt (under the ſpe<g ref="char:EOLhyphen"/>cious pretence of his <hi>Highneſſes</hi> ſervice in the diſcovery) begotten an impreſſion that Mr <hi>Conyes</hi> bringing of this writt, was the effect of deſign and combination among the Merchants, and that impreſſion (by the advantage of ſome ſeemingly pregnant circumſtances) taking abun<g ref="char:EOLhyphen"/>dantly, they then reſolved to drive him into ſo narrow a Compaſſe, that he ſhould have nothing to plead againſt his Commitment but to queſtion <hi>his Highneſses authority</hi> it ſelf, by which the opinion of the deſign above mentio<g ref="char:EOLhyphen"/>ned would be made good, and the reputation of their proceedings eſcape with thanks and reward, though at the price of endangering the whole Commonwealth in the queſtion.</p>
+            <p>But to proceed in the Narrative; When theſe gentlemen underſtood that Mr <hi>Cony</hi> had brought his <hi>Habeas Corpus,</hi> In the firſt place it was adviſed to the Serjeant at Armes (becauſe of a ſmall errour in the writt by miſnoſmer) viz. that the writt was directed to <hi>Edward Birkenhead <abbr>Eſq</abbr> Serjeant at Armes attending the Parliament,</hi> whereas his name is truly written <hi>Birkhead,</hi> and the Parliament was now alſo diſſolved) that he ſhould forbear to make any return at all: So we were forced to move for an <hi>A<g ref="char:EOLhyphen"/>lias</hi> and after that for a <hi>Pluries,</hi> both which writts were alſo guilty of the like errour (for that the Serjeant did not diſcover to us the reaſon of his not making any return, till being called in Court to give his reaſon he then diſco<g ref="char:EOLhyphen"/>vered
+<pb n="30" facs="tcp:115671:17"/>the errour) and the Court allowing thereof (as indeed there was reaſon) that errour abated the writts and we were forced to begin <hi>de novo,</hi> and to move for a<g ref="char:EOLhyphen"/>nother originall <hi>Habeas Corpus,</hi> wherein we took care to have the writt rightly directed; But neither yet could we obtain a Return thereof, becauſe being a firſt writt he was not ſtrictly bound to make his return; So we moved for an <hi>Alias</hi> with a Pain of forty pounds returnable the laſt day of <hi>Hilla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> Term, which was the twelfth of <hi>February</hi> laſt. But before the return of <hi>Alias,</hi> and after the Teſte of the ſaid Firſt writ, the Gentlemen of the Committee, having it ſeems diſcovered the imperfections of their for<g ref="char:EOLhyphen"/>mer Warrants, do ſign and ſeal a new Warrant, which was returned with the other two warrants, as the cauſe of the Plaintiffs detainder, a copy of which Warrant fol<g ref="char:EOLhyphen"/>lowes in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <head>At the Committee for preſervation of the Cuſtomes.</head>
+                        <p>WHereas by a certain ordinance of his Highneſſe <hi>Oliver</hi> Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, with the conſent of his Councell, bearing date the nine &amp; twentieth day of <hi>December</hi> 1653. It is ordained that Sir <hi>William Roberts</hi> Knight, <hi>John Stone, Gervas Ben<g ref="char:EOLhyphen"/>net, John Hildeſly, Richard Lucy, Edward Clud, Thomas
+<pb n="31" facs="tcp:115671:17"/>Wood, Anthony Rouſe, James Philips,</hi> and <hi>Nathaniel Barton</hi> Eſquires, be a Committee for preſervation of the Cuſtomes, and that they, or any three of them ſhall have power, and thereby have power and are authorized to take cognizance of all cau<g ref="char:EOLhyphen"/>ſes and perſons which ſhould be tranſmitted unto them by the Commiſsioners for the Cuſtomes in the cuſtody of their meſſengers (who were thereby impowred and required to tranſmit accordingly) and further, to receive all ſuch examinations and charges as ſhould be taken by the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners or their Deputies, authorized under their hands and ſeals, and ſhould be tranſmitted by the ſaid Commiſsioners to the ſaid Committee; for, or concerning any fraud, force, guile, or mis-beha<g ref="char:EOLhyphen"/>viour by them or any of them committed touch<g ref="char:EOLhyphen"/>ing the Cuſtomes or relating to the affaires there<g ref="char:EOLhyphen"/>of. And the ſaid Committee were thereby autho<g ref="char:EOLhyphen"/>rized &amp; impowred upon hearing the ſaid charge and examinations taken as aforeſaid, or ſuch proofs as ſhould be made before them to pu<g ref="char:EOLhyphen"/>niſh all ſuch perſons offending by fine not ex<g ref="char:EOLhyphen"/>ceeding double the value of the goods in queſtion, or by impriſonment, and if any perſon or perſons by them fined ſhould refuſe payment of the ſaid fine to the Commiſsioners for the Cuſtomes, for the uſe of the Commonwealth, to impriſon eve<g ref="char:EOLhyphen"/>ry
+<pb n="32" facs="tcp:115671:18"/>perſon ſo refuſing, untill ſuch fine or fines be paid accordingly, as by the ſame ordinance more fully appeareth. And whereas afterwards by ano<g ref="char:EOLhyphen"/>ther Ordinance made by the ſaid Lord Protector, with the advice and conſent of his Council, bear<g ref="char:EOLhyphen"/>ing date the ſecond day of <hi>September</hi> 1654. It is or<g ref="char:EOLhyphen"/>dered that the above named Sir <hi>VVilliam Roberts, John Stone</hi> and <hi>Gervas Bennet,</hi> and <hi>Adam Baines</hi> and <hi>John Bocket</hi> Eſquires, be a Committee for the pre<g ref="char:EOLhyphen"/>ſervation of the Cuſtomes, and they, or any three or more of them, are thereby authorized and re<g ref="char:EOLhyphen"/>quired to put in execution the ſeverall powers gi<g ref="char:EOLhyphen"/>ven to the late Committee for preſervation of the Cuſtomes by his Highneſſe and Council: and al<g ref="char:EOLhyphen"/>ſo put in execution the ſame powers relating to the Cuſtomes, as the Commiſsioners for Appeals were inabled to do, by an Ordinance of the 27 of <hi>March</hi> laſt in relation to the Exciſe, any Act, Ordinance, or Order to the contrary notwithſtanding, as by the ſame laſt recited Ordinance continuing ſtill in force more at large appeareth. And whereas <hi>George Cony</hi> the elder afterwards, that is to ſay, the fourth day of <hi>November</hi> 1654. did import and bring from parts beyond the ſeas unto the Port of <hi>London,</hi> by way of Merchandize in a certain ſhip or veſſel, ſeverall quantities of wrought ſilk, to the value of one thouſand pounds, and did unlade, take, and
+<pb n="33" facs="tcp:115671:18"/>carry away the ſaid goods and merchandizes with<g ref="char:EOLhyphen"/>out payment of Cuſtome for the ſaid goods and merchandizes, and without compoſition or agree<g ref="char:EOLhyphen"/>ment made for the ſame Cuſtome, contrary to the form and effect of the Acts and Ordinances in that behalf made and provided: &amp; did aſſault, abuſe, &amp; affront <hi>Theophilus Calcoke,</hi> &amp; <hi>Richard Bartlet,</hi> then, &amp; yet Deputies, lawfully conſtituted of the ſaid Com<g ref="char:EOLhyphen"/>miſsioners of the cuſtoms, in the execution of their place and office, whilſt they were ſearching accor<g ref="char:EOLhyphen"/>ding to the power to them in that behalf lawfully given, in the day time for the ſaid goods and mer<g ref="char:EOLhyphen"/>chandizes ſo imported and carryed away by the ſaid <hi>George Cony,</hi> as aforeſaid, to the great prejudice of this Commonwealth, and contrary to the Acts and Ordinances aforeſaid: of which ſaid fraud, affront, force and mis-behaviour by the ſaid <hi>George Cony</hi> committed as aforeſaid, information was then forthwith given to <hi>Edmond Harvey, Robert Tichborn, Mark Hildeſly,</hi> and <hi>Daniel Taylor,</hi> who then, &amp; at the aforeſaid time of making of the ſeve<g ref="char:EOLhyphen"/>rall Ordinances aforeſaid, were, and yet, re Com<g ref="char:EOLhyphen"/>miſsioners for the Cuſtomes. And the ſaid Com<g ref="char:EOLhyphen"/>miſsioners after due proof made before them that the ſaid <hi>George Cony</hi> the aforeſaid fourth day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1654. had imported and brought from parts beyond the ſeas into the port of <hi>London</hi> by
+<pb n="34" facs="tcp:115671:19"/>way of merchandize in a certain ſhip or veſſel the aforeſaid quantities of wrought ſilk, to the value of one thouſand pounds, and had unladen, taken, and carried away the ſaid goods and merchan<g ref="char:EOLhyphen"/>dizes as aforeſaid, without payment of cuſtome for the ſaid goods and merchandizes, and with<g ref="char:EOLhyphen"/>out compoſition or agreement for the ſame cuſtome, contrary to the form and effect of the Acts and Ordinances in that behalf made and provided as aforeſaid; and aſſaulted, abuſed, and affronted the ſaid <hi>Theophilus Calcoke</hi> and <hi>Richard Bartlet,</hi> in the execution of their place and office, whilſt they were ſearching in the day time for the ſaid goods and merchandizes, imported and carried away by the ſaid <hi>George Cony</hi> as afore<g ref="char:EOLhyphen"/>ſaid, to the great prejudice of this Common<g ref="char:EOLhyphen"/>wealth, and contrary to the Acts and Ordi<g ref="char:EOLhyphen"/>nances aſoreſaid, and after due proof thereof made by the teſtimony of ſeverall witneſſes up<g ref="char:EOLhyphen"/>on oath made before the ſame Commiſsioners, who then had lawfull power to adminiſter an oath in that behalf, they the ſaid Cmmiſsioners afterwards, that is to ſay, the ſixth day of the ſame moneth of <hi>November,</hi> did tranſmit the ſaid <hi>George Cony</hi> in the cuſtody of <hi>Thomas Landſey,</hi> then and yet Meſſenger to the ſame Commiſ<g ref="char:EOLhyphen"/>oners, together with ſuch examinations rela<g ref="char:EOLhyphen"/>ting
+<pb n="35" facs="tcp:115671:19"/>to the aforeſaid miſdemeanours of the ſaid <hi>George Cony,</hi> as were taken by the ſame Commiſsioners as aforeſaid, unto this Committee, And thereupon after<g ref="char:EOLhyphen"/>wards, that is to ſay the ſixteenth day of the ſame month of <hi>Nouember</hi> 1654. The ſaid <hi>George Cony</hi> appeared before this Committee, and was fully heard touching the premi<g ref="char:EOLhyphen"/>ſes, and after due conſideration then had and taken by this Committee of the ſaid Charge, examinations and proofs, it ſufficiently appeared to this Committee, and this Com<g ref="char:EOLhyphen"/>mittee did then finde that the ſaid <hi>George Cony</hi> the afore<g ref="char:EOLhyphen"/>ſaid fourth day of <hi>November</hi> 1654. had imported and brought from parts beyond the ſeas into the port of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> by way of merchandiſe in a certain ſhip or veſſell the aforeſaid quantities of wrought ſilk to the value of one thouſand pounds, and had unladen, taken and carryed a<g ref="char:EOLhyphen"/>way the ſaid goods and merchandiſes as aforeſaid without payment of Cuſtome for the ſaid goods and merchandi<g ref="char:EOLhyphen"/>zes, and without compoſition or agreement for the ſame Cuſtome contrary to the forme and effect of the Acts and Ordinances in that behalfe made and provided as afore<g ref="char:EOLhyphen"/>ſaid, and had aſſaulted, abuſed and affronted the ſaid <hi>The<g ref="char:EOLhyphen"/>ophilus Colcoke</hi> and <hi>Richard Bartlet</hi> Deputies of the ſaid Commiſſioners of the Cuſtomes in the execution of their place and office whileſt they were ſearching as aforeſaid in the day time for the ſaid goods and merchandizes im<g ref="char:EOLhyphen"/>ported and carryed away by the ſaid <hi>George Cony</hi> as afore<g ref="char:EOLhyphen"/>ſaid to the great prejudice of this Commonwealth, and contrary to the Acts and Ordinances aforeſaid, and did adiudge the ſaid <hi>George Cony</hi> guilty of the fraud, force and miſdemeanour wherewith he ſtood charged as aforeſaid, and thereupon this Committee did in the preſence of the ſaid <hi>George Cony</hi> adjudge and fine the ſaid <hi>George Cony</hi> in
+<pb n="36" facs="tcp:115671:20"/>the ſumme of five hundred pounds of lawfull mony of <hi>England</hi> for the offence aforeſaid; which ſaid ſumme of five hundred pounds was ſithence demanded of the ſaid <hi>George Cony,</hi> but he refuſed to pay the ſame. This Committee therefore in purſuance of the power and au<g ref="char:EOLhyphen"/>thority to them given as aforeſaid do order that the ſaid <hi>George Cony</hi> be and ſtand committed to the cuſtody of <hi>Ed<g ref="char:EOLhyphen"/>ward Birkhead</hi> 
+                           <abbr>Eſq</abbr> Serjeant at Armes, who is thereby re<g ref="char:EOLhyphen"/>quired to receive the ſaid <hi>George Cony</hi> into his cuſtody accordingly there to remain untill the ſaid <hi>George Cony</hi> ſhall pay the ſaid five hundred pounds or be diſchar<g ref="char:EOLhyphen"/>ged by due courſe of Law. Given under our hands and ſeales the eighth day of <hi>February</hi> 1654.</p>
+                        <closer>
+                           <salute>To <hi>Edward Birkhead</hi> 
+                              <abbr>Eſq</abbr> Serjeant at Armes his Deputy or Deputyes.</salute>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>John Stone.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Roberts</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Gervas Bennet.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Adam Baines.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Bocket.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="37" facs="tcp:115671:20"/>
+but reaſon that <hi>his Highneſs</hi> Councell ſhould have the view thereof before it were filed of Record, a rule of Court was given that the Serjeant ſhould make ſuch re<g ref="char:EOLhyphen"/>turn as he would peremptorily ſtand to the firſt day of the ſucceeding Term, which was accordingly done, and then moved and granted to be filed.</p>
+            <p>And the Plaintiffs Councell afterwards being to open the Exceptions they had thereunto, found that the er<g ref="char:EOLhyphen"/>rours of the two former Warrants were amended by the laſt, But withall they found ſome errour in this War<g ref="char:EOLhyphen"/>rant it ſelf alſo, upon which ſuch legall exception might be taken, as ſtill without touching upon any queſtion of <hi>the Authority,</hi> they conceived the Plaintiffe ought to have been diſcharged.</p>
+            <p>Which errour was, That whereas by <hi>his Highneſſe</hi>'s Ordinance of the 29 of <hi>December,</hi> 1653, recited in the Returne, the Committee therein named were to take cognizance of all Cauſes and perſons which ſhould be tranſmitted unto them by the Commiſſioners of the Cu<g ref="char:EOLhyphen"/>ſtomes in Cuſtody of their Meſſenger (who were there<g ref="char:EOLhyphen"/>by impowred to tranſmit accordingly) It was recited in the ſaid laſt Warrant that the Commiſſioners of the Cuſtomes did indeed tranſmit to the Committee the Perſon of <hi>George Cony</hi> in Cuſtody of <hi>Thomas Lindſey</hi> then and yet their Meſſenger, together with ſuch exami<g ref="char:EOLhyphen"/>nations as were taken by the ſame Commiſſioners; but it was not recited that they tranſmitted <hi>any Cauſe</hi> at all againſt the ſaid <hi>Cony,</hi> as by the ſaid Ordinance they ſhould have done before the Committee could take cog<g ref="char:EOLhyphen"/>nizance thereof. And upon this exception they prayed Judgement of the Court. And a day being appointed for the Councell of <hi>his Highneſſe</hi> to anſwer this Ex<g ref="char:EOLhyphen"/>ception,
+<pb n="38" facs="tcp:115671:21"/>and the Return being that day read, The Court were of opinion that by reaſon that the ſaid Return was not directed as it ought to have been, nothing lay before them upon which they could proceed to give Judgment. So for the preſent the Plaintiffe was remanded into Cu<g ref="char:EOLhyphen"/>ſtody of the Serjeant as before, and upon the Plaintiffs motion afterwards, <hi>viz:</hi> the 23 of <hi>May</hi> a <hi>Pluries Habeas Corpus</hi> was awarded him returnable <hi>Craſtino Aſcentio<g ref="char:EOLhyphen"/>nis,</hi> which was the 25 of <hi>May.</hi>
+            </p>
+            <p>After the <hi>teſte</hi> of which Writ (and before the actuall delivery of the Return into Court) the Gentlemen of the Committee taking notice (as it ſeems) of the Ex<g ref="char:EOLhyphen"/>ceptions that had now alſo been opened to this third Warrant, upon which in probability he would come off, make a fourth Warrant to the Serjeant at Armes for the continuing of M. <hi>Cony</hi> in Cuſtody, which they make to bear the ſame date with the former Warrant, <hi>viz: the Eighth of</hi> February <hi>laſt, which was above three moneths before the Warrant it ſelf was made:</hi> And (the former Return being judged no return at all, becauſe not rightly directed) the Serjeant in the Return which he was now to make upon the <hi>Pluries</hi> certifies this fourth Warrant with the other three, the ſaid War<g ref="char:EOLhyphen"/>rant reciting that the Commiſſioners of the Cuſtomes did tranſmit as well <hi>the Cauſe</hi> as the Perſon and Ex<g ref="char:EOLhyphen"/>aminations; by this means mending the errour upon which the Exceptions to the former Warrant had be<g ref="char:EOLhyphen"/>fore been opened, and thereby ſhutting this dore alſo againſt the Plaintiffs eſcape: which to what end it ſhould be done other than as much as in them lay, to caſt a neceſſity upon the Plaintiffe (unleſſe he could ſubdue himſelfe to a ſubmiſſion to their Arbitrary pro<g ref="char:EOLhyphen"/>ceedings)
+<pb n="39" facs="tcp:115671:21"/>to except againſt the Authority of their Com<g ref="char:EOLhyphen"/>miſſion, is not eaſily to be imagined. And what the ſad effects of ſo unſeaſonable a Queſtion may be (let the beam of the Ballance incline which way it will) I am almoſt affraid to think, if either the dutifull moderation of the Plaintiffe, or the great wiſdome of <hi>his Highneſſe</hi> by a timely interpoſition doe not finde a way to quench thoſe flames which their violent and irregular proceed<g ref="char:EOLhyphen"/>ings have already in ſome meaſure kindled.</p>
+            <p>I will not be ſo uncharitable as to charge the Gentle<g ref="char:EOLhyphen"/>men with any direct deſigne againſt the Common<g ref="char:EOLhyphen"/>wealth, or the peaceable ſettlement of the Publick af<g ref="char:EOLhyphen"/>faires, becauſe I believe them to be (as farre as well<g ref="char:EOLhyphen"/>meaning goes) men of better integrity; but give me leave to tell them (at how remote a diſtance ſoever from the ſpheare of their greatneſſe they may look upon me) That the rigorous bent they have ſtood in ever ſince the beginning of this buſineſſe, not to ſuffer Maſter <hi>Cony</hi> to obtain his liberty (when both in honour and pru<g ref="char:EOLhyphen"/>dence they might) by any other way but that of abſo<g ref="char:EOLhyphen"/>lute ſubmiſsion to their Arbitrary proceedings, (invol<g ref="char:EOLhyphen"/>ving therein the <hi>Liberty of the whole Common-wealth</hi>) although peradventure it may not be the weapon it ſelf, yet it hath at leaſt furniſhed an handfull to that weapon with which unquiet and diſtempered ſpirits doe endea<g ref="char:EOLhyphen"/>vour to wound the Publick peace.</p>
+            <p>And let it not here be enviouſly layed to my charge by any, that hereby I doe in ſome meaſure preſumptu<g ref="char:EOLhyphen"/>ouſly tax the wiſdome of <hi>his Highneſſe</hi> in his election of Publick Miniſters; for though I look upon <hi>his Highneſs</hi> as a Gentleman of as great diſcerning and parts as any Prince now living, yet I remember ſtill that he is but a
+<pb n="40" facs="tcp:115671:22"/>man, And in ſo troubleſome and uncertain a condition of affaires, being to ſet up a building haſtily, that the Common-wealth might not alwaies lie in the field, and having been for the moſt part of theſe times more in acti<g ref="char:EOLhyphen"/>on than peradventure in obſervation of perſons, it is no wonder if he ſhould be miſtaken in the skill of ſome his workmen, eſpecially in an Age when ſo many preten<g ref="char:EOLhyphen"/>ders to ſupernaturall aides and endowments (rather than true profeſſours of experience) doe thruſt in their volun<g ref="char:EOLhyphen"/>tary and unskilfull hands unto the work.</p>
+            <p>But however I truſt it will be one ſtep made towards the cure of this diſtemper, now we have diſcovered the cauſe and fountain of the diſeaſe. For let the diſcon<g ref="char:EOLhyphen"/>tented of whatever Intereſt or Faction know, that the bringing of this Writ of <hi>Habeas Corpus</hi> by Maſter <hi>Cony</hi> was not adviſed upon any ſuch deſigne as peradventure they have imagined, whereby to ſtrengthen their hopes of New troubles to ariſe, in the waters whereof they mean to fiſh for themſelves; but was the naked effect of miſtaken zeal to his Highneſſe's ſervice on the one ſide, and of a juſt deſire of enlargement on the other ſide. And therefore I ſhall adviſe them to return into them<g ref="char:EOLhyphen"/>ſelves with peaceable reſolutions, laying aſide the vanity of their new-raiſed expectations, there being no great likelihood for new work upon this occaſion to be made for the Hangman.</p>
+            <p>I have but one word more, which I deſire may not de<g ref="char:EOLhyphen"/>tain any other Reader than the Gentlemen themſelves whom this <hi>Narrative</hi> hath concerned; who peradven<g ref="char:EOLhyphen"/>ture, to diſarm the truth, may attribute my publiſhing hereof to private animoſity, ſprung from the ſenſe of ſome unrighteous meaſure I have received in my own
+<pb n="41" facs="tcp:115671:22"/>particular Caſe from ſome of them when they were Members of the late Committee for Inſpecting of Trea<g ref="char:EOLhyphen"/>ſuries: But in anſwer (if not in ſatisfaction) I ſhall pray them to be aſſured that as I doe own the extraction and education of a Gentleman (how much ſoever their in<g ref="char:EOLhyphen"/>juſtice hath outwardly deveſted me) ſo through the grace and mercy of GOD I am called to be a Chriſti<g ref="char:EOLhyphen"/>an. And therefore have at once both the Courage to call it <hi>Injuſtice,</hi> and the Charity to forgive it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
